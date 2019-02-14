@@ -1,3 +1,3 @@
 FROM node
 
-RUN echo hei
+RUN echo hei hopp
